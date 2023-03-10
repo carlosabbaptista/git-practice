@@ -1,0 +1,2 @@
+Pulling From a Remote Repository: git pull
+Occasionally GitHub repos will have changes that we don’t have on our local computer. This can happen when teammates push code to the repo, or when we update code on GitHub manually. In this situation, we have to use git pull to pull code to our local repository from GitHub. 
